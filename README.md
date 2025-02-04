@@ -7,4 +7,5 @@ The app also allows you to visualize the data in a Star chart or a very minimali
 You can `pip install --requirement=requirements.txt`, run the app and it's ready to go!
 
 Example:
-<img src="https://drive.google.com/file/d/1t0ngvax-U6Mjca8V6W5TbRPDwyt1RS9c/view?usp=sharing"/>
+
+![starry-sky-example](https://github.com/user-attachments/assets/21428c33-931e-4b57-bc51-10d4509fb6d5)
